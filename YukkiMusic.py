@@ -361,7 +361,7 @@ async def start_message_private(client, message):
 │❍ • ɴᴏ ʟᴀɢs + ɴᴏ ᴀᴅs •‍
 │❍ • 24x7 ᴏɴʟɪɴᴇ sᴜᴘᴘᴏʀᴛ •‍
 ├───────────────────⦿‍
-│      [✰ 𝖮ᴡ፝֠֩𝛈𝛆ʀ  ✰](https://t.me/II_BAD_BABY_II)
+│      [✰ 𝖮ᴡ፝֠֩𝛈𝛆ʀ  ✰](https://t.me/Unofficial_Legend)
 ╰───────────────────⦿"""
         buttons = InlineKeyboardMarkup(
             [
@@ -372,8 +372,8 @@ async def start_message_private(client, message):
                     )
                 ],
                 [
-            InlineKeyboardButton(text="❍ᴡɴᴇꝛ", url="https://t.me/II_BAD_BABY_II"),
-            InlineKeyboardButton(text="ᴜᴘᴅᴧᴛᴇ", url="https://t.me/HEROKUBIN_01"),
+            InlineKeyboardButton(text="❍ᴡɴᴇꝛ", url="https://t.me/Unofficial_Legend"),
+            InlineKeyboardButton(text="ᴜᴘᴅᴧᴛᴇ", url="https://t.me/New_sanatani"),
                 ],
                 [
                     InlineKeyboardButton(
@@ -494,7 +494,7 @@ async def back_to_home_menu(client, query):
 │❍ • ɴᴏ ʟᴀɢs + ɴᴏ ᴀᴅs •‍
 │❍ • 24x7 ᴏɴʟɪɴᴇ sᴜᴘᴘᴏʀᴛ •‍
 ├───────────────────⦿‍
-│      [✰ 𝖮ᴡ፝֠֩𝛈𝛆ʀ  ✰](https://t.me/II_BAD_BABY_II)
+│      [✰ 𝖮ᴡ፝֠֩𝛈𝛆ʀ  ✰](https://t.me/Unofficial_Legend)
 ╰───────────────────⦿"""
     buttons = InlineKeyboardMarkup(
         [
@@ -1347,7 +1347,7 @@ async def git_repo_link(client, message):
             [
                 InlineKeyboardButton(
                     text="💫 ʀᴇᴘᴏꜱɪᴛᴏʀʏ ❤️",
-                    url="https://github.com/Badhacker98/YukkiMusic/fork",
+                    url="https://github.com",
                 )
             ],
             [
